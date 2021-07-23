@@ -1,4 +1,4 @@
-# use Emoji in Markdown languages easily :smiley:
+  # Use Emoji in Markdown languages easily :smiley:
 
 People
 
@@ -274,7 +274,7 @@ Nature
 
 | :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
 |---|---|---|
-| :snowflake: ```:snowflake:``` | :snowman: `:snowman:` | :zap: `:zap:` |
+| :snowflake: `:snowflake:` | :snowman: `:snowman:` | :zap: `:zap:` |
 | :cyclone: `:cyclone:` | :foggy: `:foggy:` | :ocean: `:ocean:` |
 | :cat: `:cat:` | :dog: `:dog:` | :mouse: `:mouse:` |
 | :hamster: `:hamster:` | :rabbit: `:rabbit:` | :wolf: `:wolf:` |
@@ -311,4 +311,4 @@ Nature
 | :first_quarter_moon_with_face: `:first_quarter_moon_with_face:` | :moon: `:moon:` | :earth_africa: `:earth_africa:` |
 | :earth_americas: `:earth_americas:` | :earth_asia: `:earth_asia:` | :volcano: `:volcano:` |
 | :milky_way: `:milky_way:` | :partly_sunny: `:partly_sunny:` | :octocat: `:octocat:` |
-| :squirrel: `:squirrel:` |
+
