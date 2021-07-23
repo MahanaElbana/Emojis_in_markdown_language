@@ -1,5 +1,5 @@
 # Markdown_learning-
-this project for learning Markdown :-
+✨  this project for learning Markdown :-  
 ## Topics 
 ##### style :- 
  **bold**  ^up^ *italic* ~down~ ~~canceled~~ 
